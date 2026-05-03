@@ -1,0 +1,5 @@
+2026-05-03 17:39:08,198 Running colabfold 1.5.5
+2026-05-03 17:39:08,220 WARNING: no GPU detected, will be using CPU
+2026-05-03 17:39:09,685 Found 2 citations for tools or databases
+2026-05-03 17:39:09,685 Skipping design_61_0_seq14_vs_SiteII (already done)
+2026-05-03 17:39:09,685 Done

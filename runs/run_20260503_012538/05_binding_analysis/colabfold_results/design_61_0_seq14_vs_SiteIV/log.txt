@@ -1,0 +1,4 @@
+2026-05-03 17:39:10,656 Running colabfold 1.5.5
+2026-05-03 17:39:10,677 WARNING: no GPU detected, will be using CPU
+2026-05-03 17:39:12,147 Found 2 citations for tools or databases
+2026-05-03 17:39:12,147 Query 1/1: design_61_0_seq14_vs_SiteIV (length 550)
